@@ -1,0 +1,11 @@
+https://drive.google.com/file/d/1Dq0Sd30XoEKbTRQFroBMtEUezIwhGMWD/view?usp=sharing
+
+If there is an error in "Roll"
+Go to Edit->Project Settings->Input Manager
+Increase size of Axes
+Change the name of new Axis to "Roll"
+Properties of "Roll" (Change listed)
+	- Negative Button = e
+	- Positive Button = q
+	- Sensitivity = 10
+	- Type = Key or Mouse Button
